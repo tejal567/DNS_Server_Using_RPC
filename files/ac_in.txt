@@ -1,0 +1,6 @@
+iitr.ac.in 122.135.22.98
+iitb.ac.in 162.18.65.033
+iitkgp.ac.in 136.050.8.005
+iitk.ac.in 191.33.96.032
+iitd.ac.in 185.226.002.006
+iitm.ac.in 105.077.002.009

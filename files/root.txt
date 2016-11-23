@@ -1,0 +1,4 @@
+com 2
+.in 3
+org 4
+net 5

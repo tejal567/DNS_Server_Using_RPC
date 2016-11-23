@@ -1,0 +1,6 @@
+youtube.com 192.153.122.198
+gmail.com 192.111.165.033
+google.com 163.100.88.056
+facebook.com 139.233.69.017
+theverge.com 158.96.23.63
+livemint.com 155.88.22.049
